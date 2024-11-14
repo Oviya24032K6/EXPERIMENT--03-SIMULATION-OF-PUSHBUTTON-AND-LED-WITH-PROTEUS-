@@ -1,7 +1,8 @@
 # EXPERIMENT--02-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
-# NAME: OVIYA P
-# REG.NO : 212223110033
-# DATE : 20/08/2024
+
+NAME: OVIYA P
+REG.NO : 212223110033
+DATE : 20/08/2024
 
 ## Aim: 
 To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
