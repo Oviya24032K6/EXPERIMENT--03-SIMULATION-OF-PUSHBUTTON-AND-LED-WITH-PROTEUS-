@@ -102,10 +102,6 @@ void push_button(){
 
 ![image](https://github.com/user-attachments/assets/12b1025b-529d-4d26-9a44-686135046b79)
 
-<img width="607" alt="image" src="https://github.com/user-attachments/assets/a6536022-b8eb-42a3-8aba-092510ff2c08">
-<img width="608" alt="image" src="https://github.com/user-attachments/assets/9041b6e1-fb43-4b6d-965f-31dd8454cd8a">
-
-
 
 
 
